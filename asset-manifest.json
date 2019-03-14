@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.980f2990.chunk.js",
-  "main.js.map": "/static/js/main.980f2990.chunk.js.map",
-  "static/js/1.c1b26b55.chunk.js": "/static/js/1.c1b26b55.chunk.js",
-  "static/js/1.c1b26b55.chunk.js.map": "/static/js/1.c1b26b55.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.ca019149bc01c1173c5d54576c5cde10.js": "/precache-manifest.ca019149bc01c1173c5d54576c5cde10.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/GraphqlMovie-Client/static/js/main.980f2990.chunk.js",
+  "main.js.map": "/GraphqlMovie-Client/static/js/main.980f2990.chunk.js.map",
+  "static/js/1.a50b4946.chunk.js": "/GraphqlMovie-Client/static/js/1.a50b4946.chunk.js",
+  "static/js/1.a50b4946.chunk.js.map": "/GraphqlMovie-Client/static/js/1.a50b4946.chunk.js.map",
+  "runtime~main.js": "/GraphqlMovie-Client/static/js/runtime~main.cae8f4c1.js",
+  "runtime~main.js.map": "/GraphqlMovie-Client/static/js/runtime~main.cae8f4c1.js.map",
+  "index.html": "/GraphqlMovie-Client/index.html",
+  "precache-manifest.5a49d9e604b8489692e28a9120337548.js": "/GraphqlMovie-Client/precache-manifest.5a49d9e604b8489692e28a9120337548.js",
+  "service-worker.js": "/GraphqlMovie-Client/service-worker.js"
 }
