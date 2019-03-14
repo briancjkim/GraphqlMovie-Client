@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/GraphqlMovie-Client/static/js/runtime~main.cae8f4c1.js"
   },
   {
-    "revision": "980f29902ac8a5517322",
-    "url": "/GraphqlMovie-Client/static/js/main.980f2990.chunk.js"
+    "revision": "76f73a271cc4ed26efec",
+    "url": "/GraphqlMovie-Client/static/js/main.76f73a27.chunk.js"
   },
   {
     "revision": "a50b4946188053f21f62",
     "url": "/GraphqlMovie-Client/static/js/1.a50b4946.chunk.js"
   },
   {
-    "revision": "e70bf486ecbc73aa4163278c92e9ac36",
+    "revision": "5ca523d6ec7b6524c08a7ac0036fd4dc",
     "url": "/GraphqlMovie-Client/index.html"
   }
 ];
